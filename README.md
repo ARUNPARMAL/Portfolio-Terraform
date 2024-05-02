@@ -7,7 +7,7 @@ replace #secret key #acess key  & #region
 with your credentials
 
 
-#to run the project 
+# to run the project 
 terraform init 
 terraform plan 
 terraform apply --auto-approve 
