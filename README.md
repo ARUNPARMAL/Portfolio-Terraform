@@ -5,3 +5,9 @@ or
 in providers.tf
 replace #secret key #acess key  & #region
 with your credentials
+
+
+#to run the project 
+terraform init 
+terraform plan 
+terraform apply --auto-approve 
